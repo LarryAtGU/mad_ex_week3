@@ -24,7 +24,7 @@
 /**
  * Exercise 1: Filters out negative numbers from an array.
  * @param {number[]} numbers - The array of numbers to filter.
- * @return {number[]} A new array containing only positive numbers.
+ * @return {number[]} A new array containing only non-negative numbers.
  */
 function filterNegativeNumbers(numbers) {
   // Your implementation here
